@@ -1,0 +1,17 @@
+.border{
+    border: 1px solid black;
+    width: 100px;
+    height: 150px;
+    margin: auto;
+    margin-top: 300px;
+    margin-bottom: 150px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 100px;
+}
+.qara{
+    background-color: rgb(35, 33, 33);
+}
+.sari{
+    background-color: rgb(220, 220, 116);
+}
